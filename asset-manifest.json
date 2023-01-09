@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/serhatgktp.github.io/static/css/main.49068b14.css",
+    "main.js": "/serhatgktp.github.io/static/js/main.c37c2ca3.js",
+    "static/js/787.c26713f0.chunk.js": "/serhatgktp.github.io/static/js/787.c26713f0.chunk.js",
+    "index.html": "/serhatgktp.github.io/index.html",
+    "main.49068b14.css.map": "/serhatgktp.github.io/static/css/main.49068b14.css.map",
+    "main.c37c2ca3.js.map": "/serhatgktp.github.io/static/js/main.c37c2ca3.js.map",
+    "787.c26713f0.chunk.js.map": "/serhatgktp.github.io/static/js/787.c26713f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49068b14.css",
+    "static/js/main.c37c2ca3.js"
+  ]
+}
