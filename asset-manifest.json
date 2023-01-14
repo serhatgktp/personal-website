@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/serhatgktp.github.io/static/css/main.ae9ff1e1.css",
-    "main.js": "/serhatgktp.github.io/static/js/main.59a3707d.js",
+    "main.js": "/serhatgktp.github.io/static/js/main.f6d40575.js",
     "static/js/787.c26713f0.chunk.js": "/serhatgktp.github.io/static/js/787.c26713f0.chunk.js",
     "static/media/resume.pdf": "/serhatgktp.github.io/static/media/resume.7949c535562e5618c893.pdf",
     "static/media/linkedin.png": "/serhatgktp.github.io/static/media/linkedin.f35a70846c0b35df80f7.png",
@@ -9,11 +9,11 @@
     "index.html": "/serhatgktp.github.io/index.html",
     "static/media/github.svg": "/serhatgktp.github.io/static/media/github.255db585f8a0eb28a1e4deb91bde207d.svg",
     "main.ae9ff1e1.css.map": "/serhatgktp.github.io/static/css/main.ae9ff1e1.css.map",
-    "main.59a3707d.js.map": "/serhatgktp.github.io/static/js/main.59a3707d.js.map",
+    "main.f6d40575.js.map": "/serhatgktp.github.io/static/js/main.f6d40575.js.map",
     "787.c26713f0.chunk.js.map": "/serhatgktp.github.io/static/js/787.c26713f0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ae9ff1e1.css",
-    "static/js/main.59a3707d.js"
+    "static/js/main.f6d40575.js"
   ]
 }
